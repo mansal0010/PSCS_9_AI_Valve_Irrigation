@@ -1,0 +1,11 @@
+Timestamp,Soil_Moisture(%),Crop_Type,Irrigation_Required
+2025-09-01 08:00:00,18,Maize,Yes
+2025-09-01 12:00:00,35,Maize,No
+2025-09-01 16:00:00,22,Maize,Yes
+2025-09-02 08:00:00,40,Maize,No
+2025-09-02 12:00:00,28,Maize,Yes
+2025-09-02 16:00:00,32,Maize,No
+2025-09-03 08:00:00,25,Maize,Yes
+2025-09-03 12:00:00,37,Maize,No
+2025-09-03 16:00:00,20,Maize,Yes
+2025-09-04 08:00:00,42,Maize,No
